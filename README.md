@@ -1,0 +1,1 @@
+This project is to develope the landing page using html and css
